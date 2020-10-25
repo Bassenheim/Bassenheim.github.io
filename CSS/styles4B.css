@@ -1,28 +1,26 @@
 body {
-	background-color: black;
-	color: white;
+	background-color: teal;
+	color: black;
 }
 
-h1 {
-	font-size: 20px;	
-}
-p {
-	color: green;
-	font-size: 12px;
-}
-
-
-.sitedivision {
+h2 {
+	font-size: 24px;
 	border-style: dotted;
 	border-width: 2px;	
+}
+p {
+	background-color: purple;
+	color: black;
+	font-size: 16px;
+	border-radius: 25px;
+	border: 2px solid #73AD21;
+	padding: 20px;
 	width: 100px;
-	height: 100px;
+	height: 22px;
+	
 }
 
-ol {
-	list-style-type: upper-latin;
+main {
+	padding: 100px;
 }
 
-ul {
-	list-style-type: square;
-}
