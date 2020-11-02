@@ -1,6 +1,7 @@
 body {
-	padding-left: 5%;
-	padding-right: 5%;
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .osio {
@@ -18,5 +19,17 @@ body {
   .column {
     width: 100%;
   }
+}
+
+#yksi {
+	background-color: teal;
+}
+
+#kaksi {
+	background-color: pink;
+}
+
+#kolme {
+	background-color: orange;
 }
   

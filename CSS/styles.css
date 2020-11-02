@@ -2,3 +2,21 @@ body {
 	padding-left: 5%;
 	padding-right: 5%;
 }
+
+.osio {
+  float: left;
+  width: 50%;
+}
+
+.sisalto:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+  
