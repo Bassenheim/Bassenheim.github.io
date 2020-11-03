@@ -25,12 +25,12 @@ a.paanavi:hover {
 }
 
 .suuntapalkki {
-  float: left;
-  width: 20%;
+	background: gray;
+	float: left;
+	width: 20%;
 }
 
 .osio {
-	background: gray;
 	float: left;
 	width: 80%;
 }
