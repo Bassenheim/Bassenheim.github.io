@@ -5,19 +5,19 @@ body {
 }
 
 p {
-	padding-left: 5px;
+	padding-left: 10px;
 }
 
 h1 {
-	padding-left: 5px;
+	padding-left: 10px;
 }
 
 h2 {
-	padding-left: 5px;
+	padding-left: 10px;
 }
 
 h3 {
-	padding-left: 5px;
+	padding-left: 10px;
 }
 
 a.päänavi:hover {
@@ -30,8 +30,9 @@ a.päänavi:hover {
 }
 
 .osio {
-  float: left;
-  width: 80%;
+	background: gray;
+	float: left;
+	width: 80%;
 }
 
 .sisalto:after {
