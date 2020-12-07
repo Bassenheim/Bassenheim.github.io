@@ -1,0 +1,143 @@
+body {
+	
+	width: 80%;
+	height: auto;
+	margin: auto;
+	font-family: calibri;
+	
+}
+
+.nav {
+	
+	background-color: #5A78D1;
+	padding: 12px;
+	margin-bottom: 0;
+	
+}
+
+.nav a:before {
+	
+	 content: " | ";
+        padding: 0;
+        position: relative; 
+        top: 0px;
+		color: #99ABEE;
+	
+}
+
+
+.banner {
+	
+	background-color: #5E80E7;
+	background-size: cover;
+	margin-top: 0;
+	padding: 1px;
+	text-align: center;
+	color: white;
+		
+}
+
+#hat {
+	
+	text-align: center;
+		
+}
+
+#hat2 {
+	
+	text-align: center;
+		
+}
+
+h3 {
+	
+	text-shadow: 2px 2px 2px #99ABEE;
+	background-color: #E4EAFF;
+	padding: 10px;
+	margin-bottom: 0;
+	margin-top: 0;
+	background-size: cover;
+		
+}
+
+
+.content-left {
+	
+	width: 49.5%;
+	float: left;
+	height: auto;
+	margin-left: 0;
+	margin-right: 0;
+		
+}
+
+.content-center {
+	
+	width: 1%;
+	float: left;
+	height: auto;
+	
+}
+
+.content-right {
+	
+	width: 49.5%;
+	float: left;
+	height: auto;
+	margin-left: 0;
+	margin-right: 0;
+}
+
+.maincontents:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+.footer {
+	
+	margin-top: 2%;
+	background-color: #5A78D1;
+	padding: 12px;
+		
+}
+
+a.linkki {
+
+	text-decoration: none;
+	font-weight: bold;
+	color: white;
+	
+}
+
+a.linkki:visited {
+
+	text-decoration: none;
+	font-weight: bold;
+	color: #DAE2FF;
+	
+}
+
+a.linkki:hover {
+	
+	font-weight: bold;
+	color:#E15757;
+	transition: 1.0s;
+
+}
+
+a.linkki:active {
+	
+	font-weight: bold;	
+	
+}
+
+@media (max-width: 1000px) {
+body {
+	
+    width: 98%;
+    height: auto;
+	
+  }
+}
