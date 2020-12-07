@@ -153,4 +153,28 @@ body {
 		
   }
  
+ .content-left {
+	
+	width: 99%;
+	height: auto;
+	margin-left: 0;
+	margin-right: 0;
+			
+}
+
+.content-center {
+	
+	width: 1%;
+	height: auto;
+	
+}
+
+.content-right {
+	
+	width: 99%;
+	height: auto;
+	margin-left: 0;
+	margin-right: 0;
+}
+ 
 }
