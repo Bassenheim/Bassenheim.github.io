@@ -187,7 +187,7 @@ a {font-size: large}
 
  .content-left {
 	
-	width: 99%;
+	width: 100%;
 	height: auto;
 	margin-left: 0;
 	margin-right: 0;
@@ -196,14 +196,16 @@ a {font-size: large}
 
 .content-center {
 	
-	width: 1%;
+	width: 0%;
 	height: auto;
-	
+	margin-left: 0;
+	margin-right: 0;
+	visibility: hidden;
 }
 
 .content-right {
 	
-	width: 99%;
+	width: 100%;
 	height: auto;
 	margin-left: 0;
 	margin-right: 0;
