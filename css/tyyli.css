@@ -154,6 +154,29 @@ body {
 		
   }
  
+.nav {
+	
+	background-color: #5A78D1;
+	padding: 12px;
+	margin-bottom: 0;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	
+}
+
+.banner {
+	
+	background-color: #5E80E7;
+	background-size: cover;
+	margin-top: 0;
+	padding: 1px;
+	text-align: center;
+	color: white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+		
+}
+
  .content-left {
 	
 	width: 99%;
@@ -176,15 +199,6 @@ body {
 	height: auto;
 	margin-left: 0;
 	margin-right: 0;
-}
-
-.nav {
-	
-	background-color: #5A78D1;
-	padding: 12px;
-	margin-bottom: 0;
-	padding-top: 20px;
-	
 }
  
 }
