@@ -1,9 +1,12 @@
+
+
 body {
 	
 	width: 80%;
 	height: auto;
 	margin: auto;
 	font-family: calibri;
+	
 	
 }
 
@@ -206,12 +209,20 @@ body {
 }
 
 @media only screen and (orientation: portrait) {
+
+html {
+	
+	
+	
+}
+
 body {
 	
-    width: 102%;
+    width: 100%;
     height: auto;
 	font-size: large;
-	margin-right: 0;
+	margin: 0;
+	
 			
   }
   
@@ -226,7 +237,8 @@ a {font-size: 1em}
 .nav {
 	
 	background-color: #5A78D1;
-	padding: 12px;
+	padding-bottom: 6px;
+	padding-top: 6px;
 	margin-bottom: 0;
 	padding-top: 18px;
 	padding-bottom: 18px;
@@ -246,7 +258,6 @@ p {
 	background-color: #5E80E7;
 	background-size: cover;
 	margin-top: 0;
-	padding: 1px;
 	text-align: center;
 	color: white;
 	padding-top: 20px;
@@ -283,7 +294,8 @@ p {
 	
 	margin-top: 2%;
 	background-color: #5A78D1;
-	padding: 12px;
+	padding-bottom: 6px;
+	padding-top: 6px;
 	padding-top: 18px;
 	padding-bottom: 18px;
 		
