@@ -208,11 +208,10 @@ body {
 @media only screen and (orientation: portrait) {
 body {
 	
-    width: 98%;
+    width: 99%;
     height: auto;
 	font-size: large;
-	
-		
+			
   }
   
  h1 {
@@ -250,8 +249,7 @@ a {font-size: 1em}
 	
 	width: 100%;
 	height: auto;
-	margin-left: 0;
-	margin-right: 0;
+	
 			
 }
 
