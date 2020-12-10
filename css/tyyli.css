@@ -152,6 +152,17 @@ a.linkki:hover {
 	
 }
 
+.tuubi {
+	
+	margin-left: 10%;
+	margin-right: 10%;
+	display: block;
+    border-style:none;
+	width: 80%;
+	height: 350px;
+	
+}
+
 .lahteet {
 	
 	list-style-type:decimal-leading-zero;
@@ -179,6 +190,17 @@ body {
     height: auto;
 		
   }
+ 
+.tuubi {
+	
+	margin-left: 10%;
+	margin-right: 10%;
+	display: block;
+    border-style:none;
+	width: 80%;
+	height: 250px;
+	
+}
  
 }
 
@@ -256,6 +278,17 @@ a {font-size: large}
 	padding-top: 18px;
 	padding-bottom: 18px;
 		
+}
+
+.tuubi {
+	
+	margin-left: 10%;
+	margin-right: 10%;
+	display: block;
+    border-style:none;
+	width: 80%;
+	height: 400px;
+	
 }
  
 }
