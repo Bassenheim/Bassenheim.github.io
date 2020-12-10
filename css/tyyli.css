@@ -212,7 +212,7 @@ body {
 
 html {
 	
-	
+	overflow-x:hidden;
 	
 }
 
@@ -222,6 +222,7 @@ body {
     height: auto;
 	font-size: large;
 	margin: 0;
+	overflow-x:hidden;
 	
 			
   }
