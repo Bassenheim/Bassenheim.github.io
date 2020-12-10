@@ -211,6 +211,7 @@ body {
     width: 99%;
     height: auto;
 	font-size: large;
+	margin: auto;
 			
   }
   
@@ -229,6 +230,7 @@ a {font-size: 1em}
 	margin-bottom: 0;
 	padding-top: 18px;
 	padding-bottom: 18px;
+	margin-top: 0;
 	
 }
 
