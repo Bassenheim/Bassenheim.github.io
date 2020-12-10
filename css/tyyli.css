@@ -189,7 +189,7 @@ body {
 	
     width: 98%;
     height: auto;
-		
+	margin: 0;
   }
  
 .tuubi {
@@ -208,10 +208,10 @@ body {
 @media only screen and (orientation: portrait) {
 body {
 	
-    width: 99%;
+    width: 102%;
     height: auto;
 	font-size: large;
-	margin: auto;
+	margin-right: 0;
 			
   }
   
@@ -231,6 +231,13 @@ a {font-size: 1em}
 	padding-top: 18px;
 	padding-bottom: 18px;
 	margin-top: 0;
+	
+}
+
+p {
+	
+	margin-left: 2%;
+	margin-right: 2%;
 	
 }
 
