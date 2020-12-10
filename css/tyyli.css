@@ -36,7 +36,6 @@ body {
 	
 }
 
-
 .banner {
 	
 	background-color: #5E80E7;
@@ -48,19 +47,6 @@ body {
 		
 }
 
-
-
-#hat {
-	
-	text-align: center;
-		
-}
-
-#hat2 {
-	
-	text-align: center;
-		
-}
 
 h3 {
 	
@@ -181,46 +167,6 @@ a.linkki:active {
 	width: 25%;
 	height: auto;
 	float: right;
-	
-}
-
-#uutiskirje {
-	
-	float: right;
-
-}
-
-#uutiskirje2 {
-	
-	width: 80%;
-	display:inline;
-	text-align:right;
-		
-}
-
-input[type=text]{
-	
-	width: 80%;
-	border: 1px solid black;
-	border-radius: 10px;
-	box-sizing: border-box;
-	margin-left: 5px;
-	margin-bottom: 5px;
-	margin-top: 5px;
-	padding: 5px;
-  
-}
-
-input[type=text]:focus {
-  background-color: #93C0E8;
-}
-
-label {
-        
-	margin-left: 5px;
-	margin-bottom: 5px;
-	margin-top: 5px;
-	text-align: right;
 	
 }
 
