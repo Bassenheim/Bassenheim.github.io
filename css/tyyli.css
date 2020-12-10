@@ -6,8 +6,7 @@ body {
 	height: auto;
 	margin: auto;
 	font-family: calibri;
-	
-	
+		
 }
 
 .nav {
@@ -190,9 +189,10 @@ a.lahde:visited {
 @media (max-width: 960px) {
 body {
 	
-    width: 98%;
+    width: 95%;
     height: auto;
-	margin: 0;
+	margin: auto;
+	
   }
  
 .tuubi {
