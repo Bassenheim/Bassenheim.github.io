@@ -166,6 +166,7 @@ a.linkki:hover {
 .lahteet {
 	
 	list-style-type:decimal-leading-zero;
+	margin-left: 5%;
 	
 }
 
@@ -204,12 +205,13 @@ body {
  
 }
 
-@media (min-width: 320px) and (max-width: 480px) {
+@media only screen and (orientation: portrait) {
 body {
 	
     width: 98%;
     height: auto;
 	font-size: large;
+	
 		
   }
   
@@ -219,7 +221,7 @@ body {
 		
 }
 
-a {font-size: large}
+a {font-size: 2em}
  
 .nav {
 	
@@ -282,13 +284,13 @@ a {font-size: large}
 
 .tuubi {
 	
-	margin-left: 10%;
-	margin-right: 10%;
+	margin-left: 5%;
+	margin-right: 5%;
 	display: block;
     border-style:none;
-	width: 80%;
-	height: 400px;
+	width: 90%;
+	height: 500px;
 	
 }
- 
+
 }
