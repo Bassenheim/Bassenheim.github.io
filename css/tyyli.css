@@ -26,14 +26,12 @@ body {
 	
 }
 
-.footer a:before {
-
-	content: " | ";
-	padding: 0;
-	position: relative; 
-	top: 0px;
-	color: #99ABEE;
+.footer {
 	
+	margin-top: 2%;
+	background-color: #5A78D1;
+	padding: 12px;
+		
 }
 
 .banner {
@@ -117,14 +115,6 @@ h3 {
   clear: both;
 }
 
-.footer {
-	
-	margin-top: 2%;
-	background-color: #5A78D1;
-	padding: 12px;
-		
-}
-
 a.linkki {
 
 	text-decoration: none;
@@ -135,8 +125,6 @@ a.linkki {
 
 a.linkki:visited {
 
-	text-decoration: none;
-	font-weight: bold;
 	color: #DAE2FF;
 	
 }
@@ -147,12 +135,6 @@ a.linkki:hover {
 	color:#E15757;
 	transition: 1.0s;
 
-}
-
-a.linkki:active {
-	
-	font-weight: bold;	
-	
 }
 
 .kuva {
